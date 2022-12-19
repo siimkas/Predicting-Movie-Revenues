@@ -51,27 +51,27 @@ Based on this project, which has been done with limited knowledge, predicting mo
 For future improvements, loss functions (both for hypothesis space and calculating errors) that take into account the outliers should be considered, for reasons mentioned in the previous section. In addition, more thorough feature engineering could improve the results of both models in addition to increasing the number of randomised sets used in the process. And finally, gathering better quality data from a more complete database would most likely be an advantage, for example data from imdb.com [17].
 
 ## 6. References
-[1] R. Python, ‘Python’s Requests Library (Guide) – Real Python’. [Online]. Available: https://realpython.com/python-requests/ (accessed Oct. 09, 2022).
-[2] ‘The Movie Database (TMDB)’.[Online]. Available: https://www.themoviedb.org/ (accessed Oct. 09, 2022).
-[3] ‘The Movie Database API’. Accessed: Sep. 29, 2022. [Online]. Available: https://developers.themoviedb.org/3/getting-started/introduction
-[4] ‘The Movie Database API’, API Docs. [Online]. Available: https://developers.themoviedb.org/3/getting-started/popularity (accessed Oct. 09, 2022).
-[5] ‘sklearn.feature_selection.r_regression’, scikit-learn. [Online]. Available: https://scikit-learn/stable/modules/generated/sklearn.feature_selection.r_regression.html (accessed Oct. 09, 2022).
-[6] ‘sklearn.preprocessing.LabelEncoder’, scikit-learn. [Online]. Available: https://scikit-learn/stable/modules/generated/sklearn.preprocessing.LabelEncoder.html (accessed Oct. 09, 2022).
-[7] H. J. Ahn and C. Fulton, ‘Index of Common Inflation Expectations’, Feb. 2020, Accessed: Oct. 09, 2022. [Online]. Available: https://www.federalreserve.gov/econres/notes/feds-notes/index-of-common-inflation-expectatio ns-20200902.html
-[8] ‘cpi — cpi documentation’. [Online]. Available: https://palewi.re/docs/cpi/ (accessed Oct. 09, 2022).
-[9] ‘sklearn.preprocessing.StandardScaler’, scikit-learn. [Online]. Available: https://scikit-learn/stable/modules/generated/sklearn.preprocessing.StandardScaler.html (accessed Oct. 09, 2022).
-[10] A. Jung, Machine Learning: The Basics. Singapore, 2022.
-[11] ‘Multilayer Perceptron - an overview | ScienceDirect Topics’. [Online]. Available:
+[1] R. Python, ‘Python’s Requests Library (Guide) – Real Python’. [Online]. Available: https://realpython.com/python-requests/ (accessed Oct. 09, 2022).  
+[2] ‘The Movie Database (TMDB)’.[Online]. Available: https://www.themoviedb.org/ (accessed Oct. 09, 2022).  
+[3] ‘The Movie Database API’. Accessed: Sep. 29, 2022. [Online]. Available: https://developers.themoviedb.org/3/getting-started/introduction  
+[4] ‘The Movie Database API’, API Docs. [Online]. Available: https://developers.themoviedb.org/3/getting-started/popularity (accessed Oct. 09, 2022).  
+[5] ‘sklearn.feature_selection.r_regression’, scikit-learn. [Online]. Available: https://scikit-learn/stable/modules/generated/sklearn.feature_selection.r_regression.html (accessed Oct. 09, 2022).  
+[6] ‘sklearn.preprocessing.LabelEncoder’, scikit-learn. [Online]. Available: https://scikit-learn/stable/modules/generated/sklearn.preprocessing.LabelEncoder.html (accessed Oct. 09, 2022).  
+[7] H. J. Ahn and C. Fulton, ‘Index of Common Inflation Expectations’, Feb. 2020, Accessed: Oct. 09, 2022. [Online]. Available: https://www.federalreserve.gov/econres/notes/feds-notes/index-of-common-inflation-expectatio ns-20200902.html  
+[8] ‘cpi — cpi documentation’. [Online]. Available: https://palewi.re/docs/cpi/ (accessed Oct. 09, 2022).  
+[9] ‘sklearn.preprocessing.StandardScaler’, scikit-learn. [Online]. Available: https://scikit-learn/stable/modules/generated/sklearn.preprocessing.StandardScaler.html (accessed Oct. 09, 2022).  
+[10] A. Jung, Machine Learning: The Basics. Singapore, 2022.  
+[11] ‘Multilayer Perceptron - an overview | ScienceDirect Topics’. [Online]. Available:  
 https://www.sciencedirect.com/topics/computer-science/multilayer-perceptron (accessed Oct.
-09, 2022).
+09, 2022).  
 [12] ‘sklearn.linear_model.LinearRegression’, scikit-learn. [Online]. Available:
 https://scikit-learn/stable/modules/generated/sklearn.linear_model.LinearRegression.html
-(accessed Oct. 09, 2022).
+(accessed Oct. 09, 2022).  
 [13] ‘sklearn.neural_network.MLPRegressor’, scikit-learn. [Online]. Available:
 https://scikit-learn/stable/modules/generated/sklearn.neural_network.MLPRegressor.html
-(accessed Oct. 09, 2022).
+(accessed Oct. 09, 2022).  
 [14] ‘sklearn.metrics.mean_absolute_error’, scikit-learn. [Online]. Available:
 https://scikit-learn/stable/modules/generated/sklearn.metrics.mean_absolute_error.html
-(accessed Oct. 09, 2022).
+(accessed Oct. 09, 2022).  
 [15] ‘Train Test Validation Split: How To & Best Practices [2022]’. [Online]. Available:
-https://www.v7labs.com/blog/train-validation-test-set (accessed Oct. 09, 2022).
+https://www.v7labs.com/blog/train-validation-test-set (accessed Oct. 09, 2022).  
